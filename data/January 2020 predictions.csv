@@ -1,0 +1,621 @@
+,OnlyDate,Product,Geographic Zone,Quantity Ordered
+0,2019-12-29,ThinkPad Laptop,Portland (ME),1
+1,2019-12-31,ThinkPad Laptop,Austin (TX),1
+2,2020-01-01,ThinkPad Laptop,San Francisco (CA),4
+3,2020-01-01,AAA Batteries (4-pack),San Francisco (CA),20
+4,2020-01-01,ThinkPad Laptop,Portland (OR),0
+5,2020-01-01,AAA Batteries (4-pack),Portland (OR),8
+6,2020-01-01,AAA Batteries (4-pack),Portland (ME),4
+7,2020-01-01,ThinkPad Laptop,New York City (NY),2
+8,2020-01-01,AAA Batteries (4-pack),New York City (NY),14
+9,2020-01-01,ThinkPad Laptop,Los Angeles (CA),2
+10,2020-01-01,ThinkPad Laptop,Boston (MA),2
+11,2020-01-01,ThinkPad Laptop,Dallas (TX),1
+12,2020-01-01,AAA Batteries (4-pack),Dallas (TX),11
+13,2020-01-01,AAA Batteries (4-pack),Boston (MA),9
+14,2020-01-01,AAA Batteries (4-pack),Austin (TX),3
+15,2020-01-01,ThinkPad Laptop,Atlanta (GA),1
+16,2020-01-01,AAA Batteries (4-pack),Atlanta (GA),6
+17,2020-01-01,AAA Batteries (4-pack),Seattle (WA),12
+18,2020-01-01,AAA Batteries (4-pack),Los Angeles (CA),15
+19,2020-01-01,ThinkPad Laptop,Seattle (WA),1
+20,2019-12-30,ThinkPad Laptop,Portland (ME),0
+21,2020-01-01,ThinkPad Laptop,Austin (TX),1
+22,2020-01-02,ThinkPad Laptop,San Francisco (CA),3
+23,2020-01-02,AAA Batteries (4-pack),San Francisco (CA),19
+24,2020-01-02,ThinkPad Laptop,Portland (OR),0
+25,2020-01-02,AAA Batteries (4-pack),Portland (OR),6
+26,2020-01-02,AAA Batteries (4-pack),Portland (ME),4
+27,2020-01-02,ThinkPad Laptop,New York City (NY),1
+28,2020-01-02,AAA Batteries (4-pack),New York City (NY),12
+29,2020-01-02,ThinkPad Laptop,Los Angeles (CA),2
+30,2020-01-02,ThinkPad Laptop,Boston (MA),2
+31,2020-01-02,ThinkPad Laptop,Dallas (TX),1
+32,2020-01-02,AAA Batteries (4-pack),Dallas (TX),9
+33,2020-01-02,AAA Batteries (4-pack),Boston (MA),7
+34,2020-01-02,AAA Batteries (4-pack),Austin (TX),3
+35,2020-01-02,ThinkPad Laptop,Atlanta (GA),1
+36,2020-01-02,AAA Batteries (4-pack),Atlanta (GA),5
+37,2020-01-02,AAA Batteries (4-pack),Seattle (WA),13
+38,2020-01-02,AAA Batteries (4-pack),Los Angeles (CA),13
+39,2020-01-02,ThinkPad Laptop,Seattle (WA),0
+40,2019-12-31,ThinkPad Laptop,Portland (ME),0
+41,2020-01-02,ThinkPad Laptop,Austin (TX),1
+42,2020-01-03,ThinkPad Laptop,San Francisco (CA),3
+43,2020-01-03,AAA Batteries (4-pack),San Francisco (CA),19
+44,2020-01-03,ThinkPad Laptop,Portland (OR),0
+45,2020-01-03,AAA Batteries (4-pack),Portland (OR),5
+46,2020-01-03,AAA Batteries (4-pack),Portland (ME),4
+47,2020-01-03,ThinkPad Laptop,New York City (NY),1
+48,2020-01-03,AAA Batteries (4-pack),New York City (NY),11
+49,2020-01-03,ThinkPad Laptop,Los Angeles (CA),2
+50,2020-01-03,ThinkPad Laptop,Boston (MA),2
+51,2020-01-03,ThinkPad Laptop,Dallas (TX),1
+52,2020-01-03,AAA Batteries (4-pack),Dallas (TX),9
+53,2020-01-03,AAA Batteries (4-pack),Boston (MA),6
+54,2020-01-03,AAA Batteries (4-pack),Austin (TX),3
+55,2020-01-03,ThinkPad Laptop,Atlanta (GA),1
+56,2020-01-03,AAA Batteries (4-pack),Atlanta (GA),5
+57,2020-01-03,AAA Batteries (4-pack),Seattle (WA),13
+58,2020-01-03,AAA Batteries (4-pack),Los Angeles (CA),12
+59,2020-01-03,ThinkPad Laptop,Seattle (WA),0
+60,2020-01-01,ThinkPad Laptop,Portland (ME),0
+61,2020-01-03,ThinkPad Laptop,Austin (TX),1
+62,2020-01-04,ThinkPad Laptop,San Francisco (CA),3
+63,2020-01-04,AAA Batteries (4-pack),San Francisco (CA),19
+64,2020-01-04,ThinkPad Laptop,Portland (OR),0
+65,2020-01-04,AAA Batteries (4-pack),Portland (OR),5
+66,2020-01-04,AAA Batteries (4-pack),Portland (ME),4
+67,2020-01-04,ThinkPad Laptop,New York City (NY),1
+68,2020-01-04,AAA Batteries (4-pack),New York City (NY),11
+69,2020-01-04,ThinkPad Laptop,Los Angeles (CA),2
+70,2020-01-04,ThinkPad Laptop,Boston (MA),2
+71,2020-01-04,ThinkPad Laptop,Dallas (TX),1
+72,2020-01-04,AAA Batteries (4-pack),Dallas (TX),9
+73,2020-01-04,AAA Batteries (4-pack),Boston (MA),6
+74,2020-01-04,AAA Batteries (4-pack),Austin (TX),3
+75,2020-01-04,ThinkPad Laptop,Atlanta (GA),1
+76,2020-01-04,AAA Batteries (4-pack),Atlanta (GA),5
+77,2020-01-04,AAA Batteries (4-pack),Seattle (WA),13
+78,2020-01-04,AAA Batteries (4-pack),Los Angeles (CA),12
+79,2020-01-04,ThinkPad Laptop,Seattle (WA),0
+80,2020-01-02,ThinkPad Laptop,Portland (ME),0
+81,2020-01-04,ThinkPad Laptop,Austin (TX),1
+82,2020-01-05,ThinkPad Laptop,San Francisco (CA),3
+83,2020-01-05,AAA Batteries (4-pack),San Francisco (CA),20
+84,2020-01-05,ThinkPad Laptop,Portland (OR),0
+85,2020-01-05,AAA Batteries (4-pack),Portland (OR),5
+86,2020-01-05,AAA Batteries (4-pack),Portland (ME),4
+87,2020-01-05,ThinkPad Laptop,New York City (NY),1
+88,2020-01-05,AAA Batteries (4-pack),New York City (NY),11
+89,2020-01-05,ThinkPad Laptop,Los Angeles (CA),2
+90,2020-01-05,ThinkPad Laptop,Boston (MA),2
+91,2020-01-05,ThinkPad Laptop,Dallas (TX),1
+92,2020-01-05,AAA Batteries (4-pack),Dallas (TX),9
+93,2020-01-05,AAA Batteries (4-pack),Boston (MA),6
+94,2020-01-05,AAA Batteries (4-pack),Austin (TX),3
+95,2020-01-05,ThinkPad Laptop,Atlanta (GA),1
+96,2020-01-05,AAA Batteries (4-pack),Atlanta (GA),5
+97,2020-01-05,AAA Batteries (4-pack),Seattle (WA),14
+98,2020-01-05,AAA Batteries (4-pack),Los Angeles (CA),12
+99,2020-01-05,ThinkPad Laptop,Seattle (WA),0
+100,2020-01-03,ThinkPad Laptop,Portland (ME),0
+101,2020-01-05,ThinkPad Laptop,Austin (TX),1
+102,2020-01-06,ThinkPad Laptop,San Francisco (CA),3
+103,2020-01-06,AAA Batteries (4-pack),San Francisco (CA),19
+104,2020-01-06,ThinkPad Laptop,Portland (OR),0
+105,2020-01-06,AAA Batteries (4-pack),Portland (OR),5
+106,2020-01-06,AAA Batteries (4-pack),Portland (ME),4
+107,2020-01-06,ThinkPad Laptop,New York City (NY),1
+108,2020-01-06,AAA Batteries (4-pack),New York City (NY),11
+109,2020-01-06,ThinkPad Laptop,Los Angeles (CA),2
+110,2020-01-06,ThinkPad Laptop,Boston (MA),2
+111,2020-01-06,ThinkPad Laptop,Dallas (TX),1
+112,2020-01-06,AAA Batteries (4-pack),Dallas (TX),9
+113,2020-01-06,AAA Batteries (4-pack),Boston (MA),6
+114,2020-01-06,AAA Batteries (4-pack),Austin (TX),3
+115,2020-01-06,ThinkPad Laptop,Atlanta (GA),1
+116,2020-01-06,AAA Batteries (4-pack),Atlanta (GA),5
+117,2020-01-06,AAA Batteries (4-pack),Seattle (WA),14
+118,2020-01-06,AAA Batteries (4-pack),Los Angeles (CA),12
+119,2020-01-06,ThinkPad Laptop,Seattle (WA),1
+120,2020-01-04,ThinkPad Laptop,Portland (ME),0
+121,2020-01-06,ThinkPad Laptop,Austin (TX),1
+122,2020-01-07,ThinkPad Laptop,San Francisco (CA),3
+123,2020-01-07,AAA Batteries (4-pack),San Francisco (CA),19
+124,2020-01-07,ThinkPad Laptop,Portland (OR),0
+125,2020-01-07,AAA Batteries (4-pack),Portland (OR),5
+126,2020-01-07,AAA Batteries (4-pack),Portland (ME),4
+127,2020-01-07,ThinkPad Laptop,New York City (NY),1
+128,2020-01-07,AAA Batteries (4-pack),New York City (NY),11
+129,2020-01-07,ThinkPad Laptop,Los Angeles (CA),2
+130,2020-01-07,ThinkPad Laptop,Boston (MA),2
+131,2020-01-07,ThinkPad Laptop,Dallas (TX),1
+132,2020-01-07,AAA Batteries (4-pack),Dallas (TX),9
+133,2020-01-07,AAA Batteries (4-pack),Boston (MA),6
+134,2020-01-07,AAA Batteries (4-pack),Austin (TX),3
+135,2020-01-07,ThinkPad Laptop,Atlanta (GA),1
+136,2020-01-07,AAA Batteries (4-pack),Atlanta (GA),5
+137,2020-01-07,AAA Batteries (4-pack),Seattle (WA),14
+138,2020-01-07,AAA Batteries (4-pack),Los Angeles (CA),12
+139,2020-01-07,ThinkPad Laptop,Seattle (WA),1
+140,2020-01-05,ThinkPad Laptop,Portland (ME),0
+141,2020-01-07,ThinkPad Laptop,Austin (TX),1
+142,2020-01-08,ThinkPad Laptop,San Francisco (CA),3
+143,2020-01-08,AAA Batteries (4-pack),San Francisco (CA),19
+144,2020-01-08,ThinkPad Laptop,Portland (OR),0
+145,2020-01-08,AAA Batteries (4-pack),Portland (OR),5
+146,2020-01-08,AAA Batteries (4-pack),Portland (ME),4
+147,2020-01-08,ThinkPad Laptop,New York City (NY),1
+148,2020-01-08,AAA Batteries (4-pack),New York City (NY),11
+149,2020-01-08,ThinkPad Laptop,Los Angeles (CA),2
+150,2020-01-08,ThinkPad Laptop,Boston (MA),2
+151,2020-01-08,ThinkPad Laptop,Dallas (TX),1
+152,2020-01-08,AAA Batteries (4-pack),Dallas (TX),9
+153,2020-01-08,AAA Batteries (4-pack),Boston (MA),6
+154,2020-01-08,AAA Batteries (4-pack),Austin (TX),3
+155,2020-01-08,ThinkPad Laptop,Atlanta (GA),1
+156,2020-01-08,AAA Batteries (4-pack),Atlanta (GA),5
+157,2020-01-08,AAA Batteries (4-pack),Seattle (WA),14
+158,2020-01-08,AAA Batteries (4-pack),Los Angeles (CA),12
+159,2020-01-08,ThinkPad Laptop,Seattle (WA),1
+160,2020-01-06,ThinkPad Laptop,Portland (ME),0
+161,2020-01-08,ThinkPad Laptop,Austin (TX),1
+162,2020-01-09,ThinkPad Laptop,San Francisco (CA),3
+163,2020-01-09,AAA Batteries (4-pack),San Francisco (CA),19
+164,2020-01-09,ThinkPad Laptop,Portland (OR),0
+165,2020-01-09,AAA Batteries (4-pack),Portland (OR),5
+166,2020-01-09,AAA Batteries (4-pack),Portland (ME),4
+167,2020-01-09,ThinkPad Laptop,New York City (NY),1
+168,2020-01-09,AAA Batteries (4-pack),New York City (NY),11
+169,2020-01-09,ThinkPad Laptop,Los Angeles (CA),2
+170,2020-01-09,ThinkPad Laptop,Boston (MA),2
+171,2020-01-09,ThinkPad Laptop,Dallas (TX),1
+172,2020-01-09,AAA Batteries (4-pack),Dallas (TX),9
+173,2020-01-09,AAA Batteries (4-pack),Boston (MA),6
+174,2020-01-09,AAA Batteries (4-pack),Austin (TX),3
+175,2020-01-09,ThinkPad Laptop,Atlanta (GA),1
+176,2020-01-09,AAA Batteries (4-pack),Atlanta (GA),5
+177,2020-01-09,AAA Batteries (4-pack),Seattle (WA),14
+178,2020-01-09,AAA Batteries (4-pack),Los Angeles (CA),12
+179,2020-01-09,ThinkPad Laptop,Seattle (WA),0
+180,2020-01-07,ThinkPad Laptop,Portland (ME),0
+181,2020-01-09,ThinkPad Laptop,Austin (TX),1
+182,2020-01-10,ThinkPad Laptop,San Francisco (CA),3
+183,2020-01-10,AAA Batteries (4-pack),San Francisco (CA),19
+184,2020-01-10,ThinkPad Laptop,Portland (OR),0
+185,2020-01-10,AAA Batteries (4-pack),Portland (OR),5
+186,2020-01-10,AAA Batteries (4-pack),Portland (ME),4
+187,2020-01-10,ThinkPad Laptop,New York City (NY),1
+188,2020-01-10,AAA Batteries (4-pack),New York City (NY),11
+189,2020-01-10,ThinkPad Laptop,Los Angeles (CA),2
+190,2020-01-10,ThinkPad Laptop,Boston (MA),2
+191,2020-01-10,ThinkPad Laptop,Dallas (TX),1
+192,2020-01-10,AAA Batteries (4-pack),Dallas (TX),9
+193,2020-01-10,AAA Batteries (4-pack),Boston (MA),6
+194,2020-01-10,AAA Batteries (4-pack),Austin (TX),3
+195,2020-01-10,ThinkPad Laptop,Atlanta (GA),1
+196,2020-01-10,AAA Batteries (4-pack),Atlanta (GA),5
+197,2020-01-10,AAA Batteries (4-pack),Seattle (WA),14
+198,2020-01-10,AAA Batteries (4-pack),Los Angeles (CA),12
+199,2020-01-10,ThinkPad Laptop,Seattle (WA),0
+200,2020-01-08,ThinkPad Laptop,Portland (ME),0
+201,2020-01-10,ThinkPad Laptop,Austin (TX),1
+202,2020-01-11,ThinkPad Laptop,San Francisco (CA),3
+203,2020-01-11,AAA Batteries (4-pack),San Francisco (CA),19
+204,2020-01-11,ThinkPad Laptop,Portland (OR),0
+205,2020-01-11,AAA Batteries (4-pack),Portland (OR),5
+206,2020-01-11,AAA Batteries (4-pack),Portland (ME),4
+207,2020-01-11,ThinkPad Laptop,New York City (NY),1
+208,2020-01-11,AAA Batteries (4-pack),New York City (NY),11
+209,2020-01-11,ThinkPad Laptop,Los Angeles (CA),2
+210,2020-01-11,ThinkPad Laptop,Boston (MA),2
+211,2020-01-11,ThinkPad Laptop,Dallas (TX),1
+212,2020-01-11,AAA Batteries (4-pack),Dallas (TX),9
+213,2020-01-11,AAA Batteries (4-pack),Boston (MA),6
+214,2020-01-11,AAA Batteries (4-pack),Austin (TX),3
+215,2020-01-11,ThinkPad Laptop,Atlanta (GA),1
+216,2020-01-11,AAA Batteries (4-pack),Atlanta (GA),5
+217,2020-01-11,AAA Batteries (4-pack),Seattle (WA),14
+218,2020-01-11,AAA Batteries (4-pack),Los Angeles (CA),12
+219,2020-01-11,ThinkPad Laptop,Seattle (WA),0
+220,2020-01-09,ThinkPad Laptop,Portland (ME),0
+221,2020-01-11,ThinkPad Laptop,Austin (TX),1
+222,2020-01-12,ThinkPad Laptop,San Francisco (CA),3
+223,2020-01-12,AAA Batteries (4-pack),San Francisco (CA),20
+224,2020-01-12,ThinkPad Laptop,Portland (OR),0
+225,2020-01-12,AAA Batteries (4-pack),Portland (OR),5
+226,2020-01-12,AAA Batteries (4-pack),Portland (ME),4
+227,2020-01-12,ThinkPad Laptop,New York City (NY),1
+228,2020-01-12,AAA Batteries (4-pack),New York City (NY),11
+229,2020-01-12,ThinkPad Laptop,Los Angeles (CA),2
+230,2020-01-12,ThinkPad Laptop,Boston (MA),2
+231,2020-01-12,ThinkPad Laptop,Dallas (TX),1
+232,2020-01-12,AAA Batteries (4-pack),Dallas (TX),9
+233,2020-01-12,AAA Batteries (4-pack),Boston (MA),6
+234,2020-01-12,AAA Batteries (4-pack),Austin (TX),3
+235,2020-01-12,ThinkPad Laptop,Atlanta (GA),1
+236,2020-01-12,AAA Batteries (4-pack),Atlanta (GA),5
+237,2020-01-12,AAA Batteries (4-pack),Seattle (WA),14
+238,2020-01-12,AAA Batteries (4-pack),Los Angeles (CA),12
+239,2020-01-12,ThinkPad Laptop,Seattle (WA),0
+240,2020-01-10,ThinkPad Laptop,Portland (ME),0
+241,2020-01-12,ThinkPad Laptop,Austin (TX),1
+242,2020-01-13,ThinkPad Laptop,San Francisco (CA),3
+243,2020-01-13,AAA Batteries (4-pack),San Francisco (CA),19
+244,2020-01-13,ThinkPad Laptop,Portland (OR),0
+245,2020-01-13,AAA Batteries (4-pack),Portland (OR),5
+246,2020-01-13,AAA Batteries (4-pack),Portland (ME),4
+247,2020-01-13,ThinkPad Laptop,New York City (NY),1
+248,2020-01-13,AAA Batteries (4-pack),New York City (NY),11
+249,2020-01-13,ThinkPad Laptop,Los Angeles (CA),2
+250,2020-01-13,ThinkPad Laptop,Boston (MA),2
+251,2020-01-13,ThinkPad Laptop,Dallas (TX),1
+252,2020-01-13,AAA Batteries (4-pack),Dallas (TX),9
+253,2020-01-13,AAA Batteries (4-pack),Boston (MA),6
+254,2020-01-13,AAA Batteries (4-pack),Austin (TX),3
+255,2020-01-13,ThinkPad Laptop,Atlanta (GA),1
+256,2020-01-13,AAA Batteries (4-pack),Atlanta (GA),5
+257,2020-01-13,AAA Batteries (4-pack),Seattle (WA),14
+258,2020-01-13,AAA Batteries (4-pack),Los Angeles (CA),12
+259,2020-01-13,ThinkPad Laptop,Seattle (WA),1
+260,2020-01-11,ThinkPad Laptop,Portland (ME),0
+261,2020-01-13,ThinkPad Laptop,Austin (TX),1
+262,2020-01-14,ThinkPad Laptop,San Francisco (CA),3
+263,2020-01-14,AAA Batteries (4-pack),San Francisco (CA),20
+264,2020-01-14,ThinkPad Laptop,Portland (OR),0
+265,2020-01-14,AAA Batteries (4-pack),Portland (OR),5
+266,2020-01-14,AAA Batteries (4-pack),Portland (ME),4
+267,2020-01-14,ThinkPad Laptop,New York City (NY),1
+268,2020-01-14,AAA Batteries (4-pack),New York City (NY),11
+269,2020-01-14,ThinkPad Laptop,Los Angeles (CA),2
+270,2020-01-14,ThinkPad Laptop,Boston (MA),2
+271,2020-01-14,ThinkPad Laptop,Dallas (TX),1
+272,2020-01-14,AAA Batteries (4-pack),Dallas (TX),9
+273,2020-01-14,AAA Batteries (4-pack),Boston (MA),6
+274,2020-01-14,AAA Batteries (4-pack),Austin (TX),3
+275,2020-01-14,ThinkPad Laptop,Atlanta (GA),1
+276,2020-01-14,AAA Batteries (4-pack),Atlanta (GA),5
+277,2020-01-14,AAA Batteries (4-pack),Seattle (WA),14
+278,2020-01-14,AAA Batteries (4-pack),Los Angeles (CA),12
+279,2020-01-14,ThinkPad Laptop,Seattle (WA),1
+280,2020-01-12,ThinkPad Laptop,Portland (ME),0
+281,2020-01-14,ThinkPad Laptop,Austin (TX),1
+282,2020-01-15,ThinkPad Laptop,San Francisco (CA),3
+283,2020-01-15,AAA Batteries (4-pack),San Francisco (CA),20
+284,2020-01-15,ThinkPad Laptop,Portland (OR),0
+285,2020-01-15,AAA Batteries (4-pack),Portland (OR),5
+286,2020-01-15,AAA Batteries (4-pack),Portland (ME),4
+287,2020-01-15,ThinkPad Laptop,New York City (NY),1
+288,2020-01-15,AAA Batteries (4-pack),New York City (NY),11
+289,2020-01-15,ThinkPad Laptop,Los Angeles (CA),2
+290,2020-01-15,ThinkPad Laptop,Boston (MA),2
+291,2020-01-15,ThinkPad Laptop,Dallas (TX),1
+292,2020-01-15,AAA Batteries (4-pack),Dallas (TX),9
+293,2020-01-15,AAA Batteries (4-pack),Boston (MA),6
+294,2020-01-15,AAA Batteries (4-pack),Austin (TX),3
+295,2020-01-15,ThinkPad Laptop,Atlanta (GA),1
+296,2020-01-15,AAA Batteries (4-pack),Atlanta (GA),5
+297,2020-01-15,AAA Batteries (4-pack),Seattle (WA),14
+298,2020-01-15,AAA Batteries (4-pack),Los Angeles (CA),12
+299,2020-01-15,ThinkPad Laptop,Seattle (WA),0
+300,2020-01-13,ThinkPad Laptop,Portland (ME),0
+301,2020-01-15,ThinkPad Laptop,Austin (TX),1
+302,2020-01-16,ThinkPad Laptop,San Francisco (CA),3
+303,2020-01-16,AAA Batteries (4-pack),San Francisco (CA),19
+304,2020-01-16,ThinkPad Laptop,Portland (OR),0
+305,2020-01-16,AAA Batteries (4-pack),Portland (OR),5
+306,2020-01-16,AAA Batteries (4-pack),Portland (ME),4
+307,2020-01-16,ThinkPad Laptop,New York City (NY),1
+308,2020-01-16,AAA Batteries (4-pack),New York City (NY),11
+309,2020-01-16,ThinkPad Laptop,Los Angeles (CA),2
+310,2020-01-16,ThinkPad Laptop,Boston (MA),2
+311,2020-01-16,ThinkPad Laptop,Dallas (TX),1
+312,2020-01-16,AAA Batteries (4-pack),Dallas (TX),9
+313,2020-01-16,AAA Batteries (4-pack),Boston (MA),6
+314,2020-01-16,AAA Batteries (4-pack),Austin (TX),3
+315,2020-01-16,ThinkPad Laptop,Atlanta (GA),1
+316,2020-01-16,AAA Batteries (4-pack),Atlanta (GA),5
+317,2020-01-16,AAA Batteries (4-pack),Seattle (WA),14
+318,2020-01-16,AAA Batteries (4-pack),Los Angeles (CA),12
+319,2020-01-16,ThinkPad Laptop,Seattle (WA),0
+320,2020-01-14,ThinkPad Laptop,Portland (ME),0
+321,2020-01-16,ThinkPad Laptop,Austin (TX),1
+322,2020-01-17,ThinkPad Laptop,San Francisco (CA),3
+323,2020-01-17,AAA Batteries (4-pack),San Francisco (CA),19
+324,2020-01-17,ThinkPad Laptop,Portland (OR),0
+325,2020-01-17,AAA Batteries (4-pack),Portland (OR),5
+326,2020-01-17,AAA Batteries (4-pack),Portland (ME),4
+327,2020-01-17,ThinkPad Laptop,New York City (NY),1
+328,2020-01-17,AAA Batteries (4-pack),New York City (NY),11
+329,2020-01-17,ThinkPad Laptop,Los Angeles (CA),2
+330,2020-01-17,ThinkPad Laptop,Boston (MA),2
+331,2020-01-17,ThinkPad Laptop,Dallas (TX),1
+332,2020-01-17,AAA Batteries (4-pack),Dallas (TX),9
+333,2020-01-17,AAA Batteries (4-pack),Boston (MA),6
+334,2020-01-17,AAA Batteries (4-pack),Austin (TX),3
+335,2020-01-17,ThinkPad Laptop,Atlanta (GA),1
+336,2020-01-17,AAA Batteries (4-pack),Atlanta (GA),5
+337,2020-01-17,AAA Batteries (4-pack),Seattle (WA),14
+338,2020-01-17,AAA Batteries (4-pack),Los Angeles (CA),12
+339,2020-01-17,ThinkPad Laptop,Seattle (WA),0
+340,2020-01-15,ThinkPad Laptop,Portland (ME),0
+341,2020-01-17,ThinkPad Laptop,Austin (TX),1
+342,2020-01-18,ThinkPad Laptop,San Francisco (CA),3
+343,2020-01-18,AAA Batteries (4-pack),San Francisco (CA),19
+344,2020-01-18,ThinkPad Laptop,Portland (OR),0
+345,2020-01-18,AAA Batteries (4-pack),Portland (OR),5
+346,2020-01-18,AAA Batteries (4-pack),Portland (ME),4
+347,2020-01-18,ThinkPad Laptop,New York City (NY),1
+348,2020-01-18,AAA Batteries (4-pack),New York City (NY),11
+349,2020-01-18,ThinkPad Laptop,Los Angeles (CA),2
+350,2020-01-18,ThinkPad Laptop,Boston (MA),2
+351,2020-01-18,ThinkPad Laptop,Dallas (TX),1
+352,2020-01-18,AAA Batteries (4-pack),Dallas (TX),9
+353,2020-01-18,AAA Batteries (4-pack),Boston (MA),6
+354,2020-01-18,AAA Batteries (4-pack),Austin (TX),3
+355,2020-01-18,ThinkPad Laptop,Atlanta (GA),1
+356,2020-01-18,AAA Batteries (4-pack),Atlanta (GA),5
+357,2020-01-18,AAA Batteries (4-pack),Seattle (WA),14
+358,2020-01-18,AAA Batteries (4-pack),Los Angeles (CA),12
+359,2020-01-18,ThinkPad Laptop,Seattle (WA),0
+360,2020-01-16,ThinkPad Laptop,Portland (ME),0
+361,2020-01-18,ThinkPad Laptop,Austin (TX),1
+362,2020-01-19,ThinkPad Laptop,San Francisco (CA),3
+363,2020-01-19,AAA Batteries (4-pack),San Francisco (CA),20
+364,2020-01-19,ThinkPad Laptop,Portland (OR),0
+365,2020-01-19,AAA Batteries (4-pack),Portland (OR),5
+366,2020-01-19,AAA Batteries (4-pack),Portland (ME),4
+367,2020-01-19,ThinkPad Laptop,New York City (NY),1
+368,2020-01-19,AAA Batteries (4-pack),New York City (NY),11
+369,2020-01-19,ThinkPad Laptop,Los Angeles (CA),2
+370,2020-01-19,ThinkPad Laptop,Boston (MA),2
+371,2020-01-19,ThinkPad Laptop,Dallas (TX),1
+372,2020-01-19,AAA Batteries (4-pack),Dallas (TX),9
+373,2020-01-19,AAA Batteries (4-pack),Boston (MA),6
+374,2020-01-19,AAA Batteries (4-pack),Austin (TX),3
+375,2020-01-19,ThinkPad Laptop,Atlanta (GA),1
+376,2020-01-19,AAA Batteries (4-pack),Atlanta (GA),5
+377,2020-01-19,AAA Batteries (4-pack),Seattle (WA),14
+378,2020-01-19,AAA Batteries (4-pack),Los Angeles (CA),12
+379,2020-01-19,ThinkPad Laptop,Seattle (WA),0
+380,2020-01-17,ThinkPad Laptop,Portland (ME),0
+381,2020-01-19,ThinkPad Laptop,Austin (TX),1
+382,2020-01-20,ThinkPad Laptop,San Francisco (CA),3
+383,2020-01-20,AAA Batteries (4-pack),San Francisco (CA),20
+384,2020-01-20,ThinkPad Laptop,Portland (OR),0
+385,2020-01-20,AAA Batteries (4-pack),Portland (OR),5
+386,2020-01-20,AAA Batteries (4-pack),Portland (ME),4
+387,2020-01-20,ThinkPad Laptop,New York City (NY),1
+388,2020-01-20,AAA Batteries (4-pack),New York City (NY),11
+389,2020-01-20,ThinkPad Laptop,Los Angeles (CA),2
+390,2020-01-20,ThinkPad Laptop,Boston (MA),2
+391,2020-01-20,ThinkPad Laptop,Dallas (TX),1
+392,2020-01-20,AAA Batteries (4-pack),Dallas (TX),9
+393,2020-01-20,AAA Batteries (4-pack),Boston (MA),6
+394,2020-01-20,AAA Batteries (4-pack),Austin (TX),3
+395,2020-01-20,ThinkPad Laptop,Atlanta (GA),1
+396,2020-01-20,AAA Batteries (4-pack),Atlanta (GA),5
+397,2020-01-20,AAA Batteries (4-pack),Seattle (WA),14
+398,2020-01-20,AAA Batteries (4-pack),Los Angeles (CA),12
+399,2020-01-20,ThinkPad Laptop,Seattle (WA),0
+400,2020-01-18,ThinkPad Laptop,Portland (ME),0
+401,2020-01-20,ThinkPad Laptop,Austin (TX),1
+402,2020-01-21,ThinkPad Laptop,San Francisco (CA),3
+403,2020-01-21,AAA Batteries (4-pack),San Francisco (CA),20
+404,2020-01-21,ThinkPad Laptop,Portland (OR),0
+405,2020-01-21,AAA Batteries (4-pack),Portland (OR),5
+406,2020-01-21,AAA Batteries (4-pack),Portland (ME),4
+407,2020-01-21,ThinkPad Laptop,New York City (NY),1
+408,2020-01-21,AAA Batteries (4-pack),New York City (NY),11
+409,2020-01-21,ThinkPad Laptop,Los Angeles (CA),2
+410,2020-01-21,ThinkPad Laptop,Boston (MA),2
+411,2020-01-21,ThinkPad Laptop,Dallas (TX),1
+412,2020-01-21,AAA Batteries (4-pack),Dallas (TX),9
+413,2020-01-21,AAA Batteries (4-pack),Boston (MA),6
+414,2020-01-21,AAA Batteries (4-pack),Austin (TX),3
+415,2020-01-21,ThinkPad Laptop,Atlanta (GA),1
+416,2020-01-21,AAA Batteries (4-pack),Atlanta (GA),5
+417,2020-01-21,AAA Batteries (4-pack),Seattle (WA),14
+418,2020-01-21,AAA Batteries (4-pack),Los Angeles (CA),12
+419,2020-01-21,ThinkPad Laptop,Seattle (WA),0
+420,2020-01-19,ThinkPad Laptop,Portland (ME),0
+421,2020-01-21,ThinkPad Laptop,Austin (TX),1
+422,2020-01-22,ThinkPad Laptop,San Francisco (CA),3
+423,2020-01-22,AAA Batteries (4-pack),San Francisco (CA),20
+424,2020-01-22,ThinkPad Laptop,Portland (OR),0
+425,2020-01-22,AAA Batteries (4-pack),Portland (OR),5
+426,2020-01-22,AAA Batteries (4-pack),Portland (ME),4
+427,2020-01-22,ThinkPad Laptop,New York City (NY),1
+428,2020-01-22,AAA Batteries (4-pack),New York City (NY),11
+429,2020-01-22,ThinkPad Laptop,Los Angeles (CA),2
+430,2020-01-22,ThinkPad Laptop,Boston (MA),2
+431,2020-01-22,ThinkPad Laptop,Dallas (TX),1
+432,2020-01-22,AAA Batteries (4-pack),Dallas (TX),9
+433,2020-01-22,AAA Batteries (4-pack),Boston (MA),6
+434,2020-01-22,AAA Batteries (4-pack),Austin (TX),3
+435,2020-01-22,ThinkPad Laptop,Atlanta (GA),1
+436,2020-01-22,AAA Batteries (4-pack),Atlanta (GA),5
+437,2020-01-22,AAA Batteries (4-pack),Seattle (WA),14
+438,2020-01-22,AAA Batteries (4-pack),Los Angeles (CA),12
+439,2020-01-22,ThinkPad Laptop,Seattle (WA),0
+440,2020-01-20,ThinkPad Laptop,Portland (ME),0
+441,2020-01-22,ThinkPad Laptop,Austin (TX),1
+442,2020-01-23,ThinkPad Laptop,San Francisco (CA),3
+443,2020-01-23,AAA Batteries (4-pack),San Francisco (CA),19
+444,2020-01-23,ThinkPad Laptop,Portland (OR),0
+445,2020-01-23,AAA Batteries (4-pack),Portland (OR),5
+446,2020-01-23,AAA Batteries (4-pack),Portland (ME),4
+447,2020-01-23,ThinkPad Laptop,New York City (NY),1
+448,2020-01-23,AAA Batteries (4-pack),New York City (NY),11
+449,2020-01-23,ThinkPad Laptop,Los Angeles (CA),2
+450,2020-01-23,ThinkPad Laptop,Boston (MA),2
+451,2020-01-23,ThinkPad Laptop,Dallas (TX),1
+452,2020-01-23,AAA Batteries (4-pack),Dallas (TX),9
+453,2020-01-23,AAA Batteries (4-pack),Boston (MA),6
+454,2020-01-23,AAA Batteries (4-pack),Austin (TX),3
+455,2020-01-23,ThinkPad Laptop,Atlanta (GA),1
+456,2020-01-23,AAA Batteries (4-pack),Atlanta (GA),5
+457,2020-01-23,AAA Batteries (4-pack),Seattle (WA),14
+458,2020-01-23,AAA Batteries (4-pack),Los Angeles (CA),12
+459,2020-01-23,ThinkPad Laptop,Seattle (WA),0
+460,2020-01-21,ThinkPad Laptop,Portland (ME),0
+461,2020-01-23,ThinkPad Laptop,Austin (TX),1
+462,2020-01-24,ThinkPad Laptop,San Francisco (CA),3
+463,2020-01-24,AAA Batteries (4-pack),San Francisco (CA),19
+464,2020-01-24,ThinkPad Laptop,Portland (OR),0
+465,2020-01-24,AAA Batteries (4-pack),Portland (OR),5
+466,2020-01-24,AAA Batteries (4-pack),Portland (ME),4
+467,2020-01-24,ThinkPad Laptop,New York City (NY),1
+468,2020-01-24,AAA Batteries (4-pack),New York City (NY),11
+469,2020-01-24,ThinkPad Laptop,Los Angeles (CA),2
+470,2020-01-24,ThinkPad Laptop,Boston (MA),2
+471,2020-01-24,ThinkPad Laptop,Dallas (TX),1
+472,2020-01-24,AAA Batteries (4-pack),Dallas (TX),9
+473,2020-01-24,AAA Batteries (4-pack),Boston (MA),6
+474,2020-01-24,AAA Batteries (4-pack),Austin (TX),3
+475,2020-01-24,ThinkPad Laptop,Atlanta (GA),1
+476,2020-01-24,AAA Batteries (4-pack),Atlanta (GA),5
+477,2020-01-24,AAA Batteries (4-pack),Seattle (WA),14
+478,2020-01-24,AAA Batteries (4-pack),Los Angeles (CA),12
+479,2020-01-24,ThinkPad Laptop,Seattle (WA),0
+480,2020-01-22,ThinkPad Laptop,Portland (ME),0
+481,2020-01-24,ThinkPad Laptop,Austin (TX),1
+482,2020-01-25,ThinkPad Laptop,San Francisco (CA),3
+483,2020-01-25,AAA Batteries (4-pack),San Francisco (CA),19
+484,2020-01-25,ThinkPad Laptop,Portland (OR),0
+485,2020-01-25,AAA Batteries (4-pack),Portland (OR),5
+486,2020-01-25,AAA Batteries (4-pack),Portland (ME),4
+487,2020-01-25,ThinkPad Laptop,New York City (NY),1
+488,2020-01-25,AAA Batteries (4-pack),New York City (NY),11
+489,2020-01-25,ThinkPad Laptop,Los Angeles (CA),2
+490,2020-01-25,ThinkPad Laptop,Boston (MA),2
+491,2020-01-25,ThinkPad Laptop,Dallas (TX),1
+492,2020-01-25,AAA Batteries (4-pack),Dallas (TX),9
+493,2020-01-25,AAA Batteries (4-pack),Boston (MA),6
+494,2020-01-25,AAA Batteries (4-pack),Austin (TX),3
+495,2020-01-25,ThinkPad Laptop,Atlanta (GA),1
+496,2020-01-25,AAA Batteries (4-pack),Atlanta (GA),5
+497,2020-01-25,AAA Batteries (4-pack),Seattle (WA),14
+498,2020-01-25,AAA Batteries (4-pack),Los Angeles (CA),12
+499,2020-01-25,ThinkPad Laptop,Seattle (WA),0
+500,2020-01-23,ThinkPad Laptop,Portland (ME),0
+501,2020-01-25,ThinkPad Laptop,Austin (TX),1
+502,2020-01-26,ThinkPad Laptop,San Francisco (CA),3
+503,2020-01-26,AAA Batteries (4-pack),San Francisco (CA),20
+504,2020-01-26,ThinkPad Laptop,Portland (OR),0
+505,2020-01-26,AAA Batteries (4-pack),Portland (OR),5
+506,2020-01-26,AAA Batteries (4-pack),Portland (ME),4
+507,2020-01-26,ThinkPad Laptop,New York City (NY),1
+508,2020-01-26,AAA Batteries (4-pack),New York City (NY),11
+509,2020-01-26,ThinkPad Laptop,Los Angeles (CA),2
+510,2020-01-26,ThinkPad Laptop,Boston (MA),2
+511,2020-01-26,ThinkPad Laptop,Dallas (TX),1
+512,2020-01-26,AAA Batteries (4-pack),Dallas (TX),9
+513,2020-01-26,AAA Batteries (4-pack),Boston (MA),6
+514,2020-01-26,AAA Batteries (4-pack),Austin (TX),3
+515,2020-01-26,ThinkPad Laptop,Atlanta (GA),1
+516,2020-01-26,AAA Batteries (4-pack),Atlanta (GA),5
+517,2020-01-26,AAA Batteries (4-pack),Seattle (WA),14
+518,2020-01-26,AAA Batteries (4-pack),Los Angeles (CA),12
+519,2020-01-26,ThinkPad Laptop,Seattle (WA),0
+520,2020-01-24,ThinkPad Laptop,Portland (ME),0
+521,2020-01-26,ThinkPad Laptop,Austin (TX),1
+522,2020-01-27,ThinkPad Laptop,San Francisco (CA),3
+523,2020-01-27,AAA Batteries (4-pack),San Francisco (CA),20
+524,2020-01-27,ThinkPad Laptop,Portland (OR),0
+525,2020-01-27,AAA Batteries (4-pack),Portland (OR),5
+526,2020-01-27,AAA Batteries (4-pack),Portland (ME),4
+527,2020-01-27,ThinkPad Laptop,New York City (NY),1
+528,2020-01-27,AAA Batteries (4-pack),New York City (NY),11
+529,2020-01-27,ThinkPad Laptop,Los Angeles (CA),2
+530,2020-01-27,ThinkPad Laptop,Boston (MA),2
+531,2020-01-27,ThinkPad Laptop,Dallas (TX),1
+532,2020-01-27,AAA Batteries (4-pack),Dallas (TX),9
+533,2020-01-27,AAA Batteries (4-pack),Boston (MA),6
+534,2020-01-27,AAA Batteries (4-pack),Austin (TX),3
+535,2020-01-27,ThinkPad Laptop,Atlanta (GA),1
+536,2020-01-27,AAA Batteries (4-pack),Atlanta (GA),5
+537,2020-01-27,AAA Batteries (4-pack),Seattle (WA),14
+538,2020-01-27,AAA Batteries (4-pack),Los Angeles (CA),12
+539,2020-01-27,ThinkPad Laptop,Seattle (WA),0
+540,2020-01-25,ThinkPad Laptop,Portland (ME),0
+541,2020-01-27,ThinkPad Laptop,Austin (TX),1
+542,2020-01-28,ThinkPad Laptop,San Francisco (CA),3
+543,2020-01-28,AAA Batteries (4-pack),San Francisco (CA),20
+544,2020-01-28,ThinkPad Laptop,Portland (OR),0
+545,2020-01-28,AAA Batteries (4-pack),Portland (OR),5
+546,2020-01-28,AAA Batteries (4-pack),Portland (ME),4
+547,2020-01-28,ThinkPad Laptop,New York City (NY),1
+548,2020-01-28,AAA Batteries (4-pack),New York City (NY),11
+549,2020-01-28,ThinkPad Laptop,Los Angeles (CA),2
+550,2020-01-28,ThinkPad Laptop,Boston (MA),2
+551,2020-01-28,ThinkPad Laptop,Dallas (TX),1
+552,2020-01-28,AAA Batteries (4-pack),Dallas (TX),9
+553,2020-01-28,AAA Batteries (4-pack),Boston (MA),6
+554,2020-01-28,AAA Batteries (4-pack),Austin (TX),3
+555,2020-01-28,ThinkPad Laptop,Atlanta (GA),1
+556,2020-01-28,AAA Batteries (4-pack),Atlanta (GA),5
+557,2020-01-28,AAA Batteries (4-pack),Seattle (WA),14
+558,2020-01-28,AAA Batteries (4-pack),Los Angeles (CA),12
+559,2020-01-28,ThinkPad Laptop,Seattle (WA),0
+560,2020-01-26,ThinkPad Laptop,Portland (ME),0
+561,2020-01-28,ThinkPad Laptop,Austin (TX),1
+562,2020-01-29,ThinkPad Laptop,San Francisco (CA),3
+563,2020-01-29,AAA Batteries (4-pack),San Francisco (CA),20
+564,2020-01-29,ThinkPad Laptop,Portland (OR),0
+565,2020-01-29,AAA Batteries (4-pack),Portland (OR),5
+566,2020-01-29,AAA Batteries (4-pack),Portland (ME),4
+567,2020-01-29,ThinkPad Laptop,New York City (NY),1
+568,2020-01-29,AAA Batteries (4-pack),New York City (NY),11
+569,2020-01-29,ThinkPad Laptop,Los Angeles (CA),2
+570,2020-01-29,ThinkPad Laptop,Boston (MA),2
+571,2020-01-29,ThinkPad Laptop,Dallas (TX),1
+572,2020-01-29,AAA Batteries (4-pack),Dallas (TX),9
+573,2020-01-29,AAA Batteries (4-pack),Boston (MA),6
+574,2020-01-29,AAA Batteries (4-pack),Austin (TX),3
+575,2020-01-29,ThinkPad Laptop,Atlanta (GA),1
+576,2020-01-29,AAA Batteries (4-pack),Atlanta (GA),5
+577,2020-01-29,AAA Batteries (4-pack),Seattle (WA),14
+578,2020-01-29,AAA Batteries (4-pack),Los Angeles (CA),12
+579,2020-01-29,ThinkPad Laptop,Seattle (WA),0
+580,2020-01-27,ThinkPad Laptop,Portland (ME),0
+581,2020-01-29,ThinkPad Laptop,Austin (TX),1
+582,2020-01-30,ThinkPad Laptop,San Francisco (CA),3
+583,2020-01-30,AAA Batteries (4-pack),San Francisco (CA),19
+584,2020-01-30,ThinkPad Laptop,Portland (OR),0
+585,2020-01-30,AAA Batteries (4-pack),Portland (OR),5
+586,2020-01-30,AAA Batteries (4-pack),Portland (ME),4
+587,2020-01-30,ThinkPad Laptop,New York City (NY),1
+588,2020-01-30,AAA Batteries (4-pack),New York City (NY),11
+589,2020-01-30,ThinkPad Laptop,Los Angeles (CA),2
+590,2020-01-30,ThinkPad Laptop,Boston (MA),2
+591,2020-01-30,ThinkPad Laptop,Dallas (TX),1
+592,2020-01-30,AAA Batteries (4-pack),Dallas (TX),9
+593,2020-01-30,AAA Batteries (4-pack),Boston (MA),6
+594,2020-01-30,AAA Batteries (4-pack),Austin (TX),3
+595,2020-01-30,ThinkPad Laptop,Atlanta (GA),1
+596,2020-01-30,AAA Batteries (4-pack),Atlanta (GA),5
+597,2020-01-30,AAA Batteries (4-pack),Seattle (WA),14
+598,2020-01-30,AAA Batteries (4-pack),Los Angeles (CA),12
+599,2020-01-30,ThinkPad Laptop,Seattle (WA),0
+600,2020-01-28,ThinkPad Laptop,Portland (ME),0
+601,2020-01-30,ThinkPad Laptop,Austin (TX),1
+602,2020-01-31,ThinkPad Laptop,San Francisco (CA),3
+603,2020-01-31,AAA Batteries (4-pack),San Francisco (CA),19
+604,2020-01-31,ThinkPad Laptop,Portland (OR),0
+605,2020-01-31,AAA Batteries (4-pack),Portland (OR),5
+606,2020-01-31,AAA Batteries (4-pack),Portland (ME),4
+607,2020-01-31,ThinkPad Laptop,New York City (NY),1
+608,2020-01-31,AAA Batteries (4-pack),New York City (NY),11
+609,2020-01-31,ThinkPad Laptop,Los Angeles (CA),2
+610,2020-01-31,ThinkPad Laptop,Boston (MA),2
+611,2020-01-31,ThinkPad Laptop,Dallas (TX),1
+612,2020-01-31,AAA Batteries (4-pack),Dallas (TX),9
+613,2020-01-31,AAA Batteries (4-pack),Boston (MA),6
+614,2020-01-31,AAA Batteries (4-pack),Austin (TX),3
+615,2020-01-31,ThinkPad Laptop,Atlanta (GA),1
+616,2020-01-31,AAA Batteries (4-pack),Atlanta (GA),5
+617,2020-01-31,AAA Batteries (4-pack),Seattle (WA),14
+618,2020-01-31,AAA Batteries (4-pack),Los Angeles (CA),12
+619,2020-01-31,ThinkPad Laptop,Seattle (WA),0

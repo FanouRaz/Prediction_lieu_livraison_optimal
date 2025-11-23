@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+lightgbm
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-core
+ollama
+python-dotenv
+matplotlib
